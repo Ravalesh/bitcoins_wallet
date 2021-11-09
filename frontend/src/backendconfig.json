@@ -1,0 +1,8 @@
+{
+    "endpoints":{
+        "authenticate": "/api/authenticate/",
+        "logout":"/api/logout/",
+        "profile": "/api/profile/",
+        "sendbitcoins":"/api/send/"
+    }
+}

@@ -1,0 +1,7 @@
+backend/.vscode/launch.json
+backend/backend/__pycache__/*
+backend/core/__pycache__/*
+backend/core/migrations/__pycache__/*
+backend/playground/__pycache__/*
+backend/playground/migrations/__pycache__/*
+backend/bitcoins_venv/*
