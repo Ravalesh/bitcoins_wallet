@@ -9,6 +9,7 @@ djangorestframework = "*"
 django-cors-headers = "*"
 django-debug-toolbar = "*"
 psycopg2 = "*"
+simplejson = "*"
 
 [dev-packages]
 
