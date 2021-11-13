@@ -42,6 +42,8 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework',
     'debug_toolbar',
+    'jsonrpc_app',
+    'simplejson',
 ]
 
 MIDDLEWARE = [

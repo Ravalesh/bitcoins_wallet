@@ -28,6 +28,7 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     # path('api/', include(router.urls)),
     path('api/', include('core.urls')),
+    path('api/', include('jsonrpc_app.urls')),
     path('playground/', include('playground.urls')),
-     path('__debug__/', include(debug_toolbar.urls)),
+    path('__debug__/', include(debug_toolbar.urls)),
 ]

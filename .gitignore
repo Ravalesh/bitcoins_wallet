@@ -5,3 +5,5 @@ backend/core/migrations/__pycache__/*
 backend/playground/__pycache__/*
 backend/playground/migrations/__pycache__/*
 backend/bitcoins_venv/*
+backend/jsonrpc_app/migrations/__pycache__/*
+backend/jsonrpc_app/__pycache__/*
